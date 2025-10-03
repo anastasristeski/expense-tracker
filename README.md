@@ -42,8 +42,8 @@ This component structures the expense viewing screens and includes the primary *
 
 ### Screenshots
 
-<img width="361" height="809" alt="Screenshot 2025-10-03 at 16 31 18" src="https://github.com/user-attachments/assets/f3bd4c73-64e6-4c13-af93-948791864fbc" style="width:200px;"/>
-<img width="370" height="811" alt="Screenshot 2025-10-03 at 16 31 26" src="https://github.com/user-attachments/assets/56e6e925-ee6b-4fde-a6b8-81199c452752" style="width:200px;"/>
-<img width="357" height="808" alt="Screenshot 2025-10-03 at 16 31 34" src="https://github.com/user-attachments/assets/e3837ac2-06cd-4eec-a80a-d9fb7a2e4dee" style="width:200px;"/>
-<img width="367" height="799" alt="Screenshot 2025-10-03 at 16 31 54" src="https://github.com/user-attachments/assets/00996e7b-a936-417d-910d-1e15e77d3363" style="width:200px;"/>
-<img width="367" height="808" alt="Screenshot 2025-10-03 at 16 32 07" src="https://github.com/user-attachments/assets/79934eaa-206b-4a33-b9a4-d1462178ce00" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2107" src="https://github.com/user-attachments/assets/7c871e8d-8ad7-4164-bdcb-7aaa9f92a0b0" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2108" src="https://github.com/user-attachments/assets/aafd0dd4-43b0-4224-bccb-1bfb988a7032" style="width:200px;"/>
+
+<img width="590" height="1278" alt="IMG_2109" src="https://github.com/user-attachments/assets/19754c34-9367-43f4-af5c-66767fe49a41" style="width:200px;"/>
+<img width="590" height="1278" alt="IMG_2110" src="https://github.com/user-attachments/assets/dc84d016-0e83-4e45-899d-724ac96a4af3" style="width:200px;"/>
